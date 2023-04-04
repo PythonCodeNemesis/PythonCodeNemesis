@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/pythonCodeNemesis"><img src="https://api.daily.dev/devcards/9a9a43c7f8b44a44829a07b5576b8b6a.png?r=ayy" width="400" alt="Python Code Nemesis's Dev Card"/></a>
+
 <!--
 **PythonCodeNemesis/PythonCodeNemesis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
